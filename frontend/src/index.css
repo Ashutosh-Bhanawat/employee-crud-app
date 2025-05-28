@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+:root {
+  --primary:  rgb(163, 3, 163); /* Blue-600 */
+  --primary-hover: rgb(226, 8, 226); /* Blue-700 */
+}
+
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}

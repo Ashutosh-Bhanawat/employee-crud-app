@@ -1,0 +1,7 @@
+[
+  { "label": "Frontend Development", "value": "frontend" },
+  { "label": "Backend Development", "value": "backend" },
+  { "label": "DevOps & Infrastructure", "value": "devops" },
+  { "label": "Data & AI", "value": "data_ai" },
+  { "label": "Product & Design", "value": "product_design" }
+]

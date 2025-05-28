@@ -1,0 +1,26 @@
+[
+  { "label": "React", "value": "react" },
+  { "label": "HTML/CSS", "value": "html_css" },
+  { "label": "JavaScript", "value": "javascript" },
+  { "label": "TypeScript", "value": "typescript" },
+
+  { "label": "Node.js", "value": "node" },
+  { "label": "Express.js", "value": "express" },
+  { "label": "MongoDB", "value": "mongodb" },
+  { "label": "PostgreSQL", "value": "postgresql" },
+
+  { "label": "Docker", "value": "docker" },
+  { "label": "AWS", "value": "aws" },
+  { "label": "CI/CD", "value": "cicd" },
+  { "label": "Kubernetes", "value": "kubernetes" },
+
+  { "label": "Python", "value": "python" },
+  { "label": "Machine Learning", "value": "ml" },
+  { "label": "TensorFlow", "value": "tensorflow" },
+  { "label": "Data Analysis", "value": "data_analysis" },
+
+  { "label": "UI/UX Design", "value": "ui_ux" },
+  { "label": "Figma", "value": "figma" },
+  { "label": "Agile Methodology", "value": "agile" },
+  { "label": "Product Strategy", "value": "product_strategy" }
+]
